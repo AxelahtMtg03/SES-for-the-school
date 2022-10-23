@@ -39,3 +39,4 @@ const draw = () => {
 };
 
 setInterval(draw, 30);
+alert("Merci pour votre attention")
